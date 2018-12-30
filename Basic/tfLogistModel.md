@@ -39,10 +39,10 @@ with tf.Session() as sess:
     print("X: 2.5, Y:",sess.run(hypothesis, feed_dict={X: 2.5}))
 ```
 
-1. 값 초기화
+1.값 초기화
 > 균등분포(Uniform Distribution)를 가진 무작위 값(-1~ 1)로 초기화  
 
-2. 플레이스홀더 설정
+2.플레이스홀더 설정
 > name을 통해 플레이스홀더의 이름을 설정(이름 부여시 어떻게 사용되는지 알 수 있음, 디버깅 편리)  
 
 3.수식 설정
