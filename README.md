@@ -1,2 +1,2 @@
 ### Tensorflow Traning  
-This is for private study about machine learing(Tensorflow).
+This is for private study about machine learning(Tensorflow).
