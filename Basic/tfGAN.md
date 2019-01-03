@@ -166,13 +166,13 @@ print('최적화 완료!')
 
 #### 테스트 결과
 0회  
-![000](../tfCode/samples/000.png)
+![000](../tfCode/samples/000.png)  
 39회  
-![039](../tfCode/samples/039.png)
+![039](../tfCode/samples/039.png)   
 69회  
-![069](../tfCode/samples/069.png)
+![069](../tfCode/samples/069.png)  
 99회  
-![099](../tfCode/samples/099.png)
+![099](../tfCode/samples/099.png)  
 
 
 ### 원하는 숫자 생성
@@ -340,12 +340,12 @@ tf.get_collection 함수를 이용해 discriminator 와 generator 스코프에�
 
 #### 테스트 결과  
 0회  
-![000](../tfCode/samples2/000.png)
+![000](../tfCode/samples2/000.png)  
 39회  
-![039](../tfCode/samples2/039.png)
+![039](../tfCode/samples2/039.png)  
 69회  
-![069](../tfCode/samples2/069.png)
+![069](../tfCode/samples2/069.png)  
 99회  
-![099](../tfCode/samples2/099.png)
+![099](../tfCode/samples2/099.png)  
 
 * 뭔가 잘못된건가..
